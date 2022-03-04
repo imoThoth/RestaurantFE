@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.LoginBox{
+    width: 22rem;
+    height: auto;
+    border-radius: 2px;
+    box-shadow: 0 0 6px 0 rgba(0, 115, 230, 0.3);
+    background-color: aqua;
+}
+
+.LoginImg{
+    width: 5.5rem;
+    height: 5.5rem;
+    border-radius: 50%;
+    border: 1px solid aqua;
+
+}
+
+.select{
+    margin-left: 10px;
+}
+
+.booking{
+    margin: 10px;
+}
+
